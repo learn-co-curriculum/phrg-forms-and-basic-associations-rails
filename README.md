@@ -229,5 +229,8 @@ end
  - [datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
  - [collection_select](http://apidock.com/rails/ActionView/Helpers/FormOptionsHelper/collection_select)
  - [naming convention](http://guides.rubyonrails.org/v3.2.13/form_helpers.html#understanding-parameter-naming-conventions)
+ 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-forms-and-basic-associations-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-forms-and-basic-associations-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Forms And Basic Associations Rails</p>
